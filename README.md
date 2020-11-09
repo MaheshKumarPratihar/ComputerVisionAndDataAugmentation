@@ -1,6 +1,4 @@
-# PoliTOcean
-computer vision and data augmentation
-
+         IMAGE AUGMENTATION
 * for using this code first you need 
 * put the images in specified path or change path in code.
 * this code firstly change RGB image to grayscale and then resize them
